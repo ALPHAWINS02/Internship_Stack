@@ -40,7 +40,7 @@ Assignment for selection process :https://kb-assignment.netlify.app/
 <b>Internship05</b>: BrewTech Labs Pvt.Ltd 
 1.ADS Learning System (intellielts.com)
 <br>
-2.Business Portal Prototype(
+2.Business Portal Prototype(https://brewtech-prototype.netlify.app/)
 <BR>
 3.Automation Script Using Selenium 
 <br>
