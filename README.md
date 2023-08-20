@@ -7,6 +7,7 @@ This is the list of internships I have done in my college life.
 [Check This Out](https://github.com/ALPHAWINS02/Internship_Stack/tree/main/Internship01/TASK-1)
 <br>
 https://lgm-task01.netlify.app/
+[View My Certificate](https://drive.google.com/file/d/1TwAcZoku5jmATCNEwQH-BCqEB1Ce5I-j/view?usp=sharing)
 
 <em>Task02</em> : React Website 
 [Check This Out](https://github.com/ALPHAWINS02/Internship_Stack/tree/main/Internship01/TASK-2)
