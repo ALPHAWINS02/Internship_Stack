@@ -27,6 +27,8 @@ It was my second Unpaid Internship At this NGO.<br>
 <br>
 <b>Internship04</b>:Khajuri Bazar (https://www.khajuribazar.com/)
 <br>
+Assignment for selection process :https://kb-assignment.netlify.app/
+<br>
 My primary role was assisting them and making components so they could integrate them. <br>
 1. Project: Business Website Maintenance<br>
 2. E-Commerce Website <br>
