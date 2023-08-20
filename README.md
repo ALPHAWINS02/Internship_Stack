@@ -15,7 +15,7 @@ https://lgm-task02.netlify.app/
 
 <b>Internship02</b> : Crime Free Bharat <br>
 It was my second Unpaid Internship At this NGO.<br> 
-https://internshala.com/student/certificate/99904082/6D675926-1648-7957-005E-4FE65958B57B
+[View My Certificate](https://internshala.com/student/certificate/99904082/6D675926-1648-7957-005E-4FE65958B57B)
 
 <b>Internship03</b> : The Sparks Foundation [Check This Out](https://github.com/ALPHAWINS02/Internship_Stack/tree/main/Internship03/The-Sparks-Foundation-GRIP-BasicBankingApp-main)
 <br>
