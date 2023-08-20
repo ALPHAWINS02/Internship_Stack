@@ -35,3 +35,13 @@ My primary role was assisting them and making components so they could integrate
 
 [view my certificate](https://internshala.com/student/certificate/99992646/79A5B435-EAC7-F87F-6BFC-08C04A11B11E)
 
+<b>Internship05</b>: BrewTech Labs Pvt.Ltd 
+1.ADS Learning System (intellielts.com)
+<br>
+2.Business Portal Prototype(
+<BR>
+3.Automation Script Using Selenium 
+<br>
+[Offer Letter](https://drive.google.com/file/d/1ANlCAaqGr7y4yfxxQ1LUVuq4tXE4q8Pv/view?usp=sharing)
+
+
