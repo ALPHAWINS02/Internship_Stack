@@ -12,3 +12,12 @@ https://lgm-task01.netlify.app/
 [Check This Out](https://github.com/ALPHAWINS02/Internship_Stack/tree/main/Internship01/TASK-2)
 <br>
 https://lgm-task02.netlify.app/
+
+<b>Internship02</b> : Crime Free Bharat <br>
+It was my second Unpaid Internship At this NGO.<br> 
+https://internshala.com/student/certificate/99904082/6D675926-1648-7957-005E-4FE65958B57B
+
+<b>Internship03</b> : The Sparks Foundation <br>
+[Check This Out](
+<br>
+https://drive.google.com/file/d/1Be-VeWhOGjh9ZeX59OVm0gSf-g3_2ztD/view?usp=sharing
