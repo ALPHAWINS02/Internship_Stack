@@ -23,3 +23,13 @@ It was my second Unpaid Internship At this NGO.<br>
 <b>Internship03</b> : The Sparks Foundation [Check This Out](https://github.com/ALPHAWINS02/Internship_Stack/tree/main/Internship03/The-Sparks-Foundation-GRIP-BasicBankingApp-main)
 <br>
 [View My Certificate](https://drive.google.com/file/d/1Be-VeWhOGjh9ZeX59OVm0gSf-g3_2ztD/view?usp=sharing)
+
+<br>
+<br>
+<b>Internship04</b>:Khajuri Bazar [Site](https://www.khajuribazar.com/)
+<br>
+My primary role was assisting them and making components so they could integrate them. 
+1. Project: Business Website Maintenance
+2. E-Commerce Website 
+[View My Certificate](https://internshala.com/student/certificate/99992646/79A5B435-EAC7-F87F-6BFC-08C04A11B11E)
+
