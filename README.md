@@ -25,7 +25,7 @@ It was my second Unpaid Internship At this NGO.<br>
 [View My Certificate](https://drive.google.com/file/d/1Be-VeWhOGjh9ZeX59OVm0gSf-g3_2ztD/view?usp=sharing)
 
 <br>
-<b>Internship04</b>:Khajuri Bazar [Site](https://www.khajuribazar.com/)
+<b>Internship04</b>:Khajuri Bazar (https://www.khajuribazar.com/)
 <br>
 My primary role was assisting them and making components so they could integrate them. <br>
 1. Project: Business Website Maintenance<br>
