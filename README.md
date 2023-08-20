@@ -30,6 +30,9 @@ It was my second Unpaid Internship At this NGO.<br>
 <br>
 My primary role was assisting them and making components so they could integrate them. 
 1. Project: Business Website Maintenance
-2. E-Commerce Website 
-[View My Certificate](https://internshala.com/student/certificate/99992646/79A5B435-EAC7-F87F-6BFC-08C04A11B11E)
+2. E-Commerce Website <br>
+
+[Offer Letter](https://drive.google.com/file/d/13pJ-DtWJ1xsyAPYS75S_jFw3kq8Kln6d/view?usp=sharing)
+
+[view my certificate](https://internshala.com/student/certificate/99992646/79A5B435-EAC7-F87F-6BFC-08C04A11B11E)
 
